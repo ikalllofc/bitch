@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "IKAL", 
+	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 9999,
+	"ownerList": ["6289696454872@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://telegra.ph/file/729bf790fb6df0f687aa2.jpg",
+	"pack": "KurrGamtenk",
+	"author": "<3"
+}

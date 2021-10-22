@@ -1,0 +1,7 @@
+{
+  "name": "IKAL BOTZ",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/justpiple/whatsapp-bot",
+  "logo": "https://telegra.ph/file/729bf790fb6df0f687aa2.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}
